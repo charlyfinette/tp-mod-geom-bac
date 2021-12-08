@@ -29,7 +29,13 @@ Implémentation des matrices A et B: La principale cause de mon retard c'est par
 1. Pourquoi on peut utiliser l'approximation ?
 2. Courbures pour H et K
 
-![alt text](https://github.com/charlyfinette/tp-mod-geom-bac/blob/master/Images/KittenCourbureH..png)
+
+#### Courbure gausienne sur kitten.obj
+![Courbure gausienne sur kitten.obj](https://github.com/charlyfinette/tp-mod-geom-bac/blob/master/Images/KittenCourbureK..png) 
+
+#### Courbure moyenne sur kitten.obj  
+![Courbure moyenne sur kitten.obj](https://github.com/charlyfinette/tp-mod-geom-bac/blob/master/Images/KittenCourbureH..png)
+
 ### Visualisation 
 
 ## TP2: Réparation de maillage par surfaces implicites
