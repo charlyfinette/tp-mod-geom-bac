@@ -11,9 +11,8 @@ Pour contrôler le nombre de voisins, j'ai rajouté une condition à l'ajout du 
         neigh.insert(neigh.end(), neigh2.begin(), neigh2.end());
     }
 ```
-C'est quoi un maillage "sparse" ? 
 
-Implémentation des matrices A et B: La principale cause de mon retard c'est parce que je n'avais pas effectué le changement de base pour les éléments de la matrice B.
+Implémentation des matrices A et B:
 
 ```c++
 // B :
