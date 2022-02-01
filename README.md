@@ -1,5 +1,12 @@
 # TP Modélisation géométrique avec Alexandra Bac 
 
+## Outils 
+* Qt / OpenGL
+* OpenMesh
+
+## Installation 
+* Linux : 
+* 
 ## TP1: Courbures discrètes
 
 ### Exercice de Base
@@ -35,6 +42,3 @@ Implémentation des matrices A et B:
 #### Courbure moyenne sur kitten.obj  
 ![Courbure moyenne sur kitten.obj](https://github.com/charlyfinette/tp-mod-geom-bac/blob/master/Images/KittenCourbureH..png)
 
-### Visualisation 
-
-## TP2: Réparation de maillage par surfaces implicites
